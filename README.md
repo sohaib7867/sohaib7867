@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sohaib7
-- 👀 I’m interested in python,C & C++ projects.
+- 👀 I’m interested in python, Web-dev, C & C++ projects.
 - 🌱 I’m currently learning pyhton
 - 💞️ I’m looking to collaborate on python,C & C++ project
 - 📫 How to reach me sohaibijaz7867@gmail.com and whatsapp :03364743992
